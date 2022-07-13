@@ -1,0 +1,133 @@
+<RCC>
+  <qresource prefix="iconsLight">
+    <file>icons/light_EFF9FE/doctor-suitecase-64 (1).png</file>
+    <file>icons/light_EFF9FE/documents-64 (1).png</file>
+    <file>icons/light_EFF9FE/edit-user-64 (1).png</file>
+    <file>icons/light_EFF9FE/home-64 (1).png</file>
+    <file>icons/light_EFF9FE/house-64.png</file>
+    <file>icons/light_EFF9FE/logout-64.png</file>
+  </qresource>
+  <qresource prefix="files">
+    <file>files/infos.pdf</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/others/navigate_plus.png</file>
+    <file>icons/others/navigate_minus.png</file>
+    <file>icons/others/hide_pw.png</file>
+    <file>icons/others/show_pw.png</file>
+    <file>icons/others/about.png</file>
+    <file>icons/others/information2.png</file>
+    <file>icons/others/virus.png</file>
+    <file>icons/others/note.png</file>
+    <file>icons/others/check.png</file>
+    <file>icons/others/edit.png</file>
+    <file>icons/others/delete2.png</file>
+    <file>icons/others/window_gear.png</file>
+    <file>icons/others/user_analyst.png</file>
+    <file>icons/others/user_lock.png</file>
+    <file>icons/others/user_preferences.png</file>
+    <file>icons/others/user_view.png</file>
+    <file>icons/others/user_add.png</file>
+    <file>icons/others/user_delete.png</file>
+    <file>icons/others/user_find.png</file>
+    <file>icons/others/user.png</file>
+    <file>icons/others/bottle_of_pills.png</file>
+    <file>icons/others/user-pharma.png</file>
+    <file>icons/others/users.png</file>
+    <file>icons/others/navigate_right.png</file>
+    <file>icons/others/chart_column.png</file>
+    <file>icons/others/chart_line.png</file>
+    <file>icons/others/chart_pie2.png</file>
+    <file>icons/others/icons8-view-more-96.png</file>
+    <file>icons/others/sign_warning_harmful.png</file>
+    <file>icons/others/preferences.png</file>
+    <file>icons/others/view.png</file>
+    <file>icons/others/briefcase2_document.png</file>
+    <file>icons/others/doctor-removebg-preview.png</file>
+    <file>icons/others/exit-removebg-preview.png</file>
+    <file>icons/others/home-removebg-preview.png</file>
+    <file>icons/others/user_edit-removebg-preview.png</file>
+    <file>icons/others/patient.png</file>
+    <file>icons/others/user_information.png</file>
+  </qresource>
+  <qresource prefix="iconCovid">
+    <file>icons/covid/coronavirus.png</file>
+    <file>icons/covid/infected (1).png</file>
+    <file>icons/covid/bed.png</file>
+    <file>icons/covid/patient (4).png</file>
+    <file>icons/covid/new-normality.png</file>
+    <file>icons/covid/mask.png</file>
+    <file>icons/covid/pcr-test.png</file>
+    <file>icons/covid/pcr-test (1).png</file>
+    <file>icons/covid/blood-sample (1).png</file>
+    <file>icons/covid/test-results (1).png</file>
+    <file>icons/covid/vaccine.png</file>
+    <file>icons/covid/testing.png</file>
+    <file>icons/covid/vaccinated.png</file>
+    <file>icons/covid/test.png</file>
+    <file>icons/covid/bar-chart.png</file>
+    <file>icons/covid/covid.png</file>
+    <file>icons/covid/patient.png</file>
+    <file>icons/covid/infected.png</file>
+    <file>icons/covid/cheking.png</file>
+    <file>icons/covid/test-results.png</file>
+    <file>icons/covid/report.png</file>
+    <file>icons/covid/test-results (2).png</file>
+    <file>icons/covid/recovered.png</file>
+    <file>icons/covid/death.png</file>
+    <file>icons/covid/death (1).png</file>
+    <file>icons/covid/death (2).png</file>
+    <file>icons/covid/death (3).png</file>
+    <file>icons/covid/report (1).png</file>
+    <file>icons/covid/vaccine (1).png</file>
+    <file>icons/covid/vaccine (2).png</file>
+    <file>icons/covid/vaccine (3).png</file>
+    <file>icons/covid/patient (1).png</file>
+    <file>icons/covid/patient (2).png</file>
+    <file>icons/covid/patient (3).png</file>
+  </qresource>
+  <qresource prefix="iconsDark">
+    <file>icons/dark_343542/doctor-suitecase-128.png</file>
+    <file>icons/dark_343542/user-3-128.png</file>
+    <file>icons/dark_343542/logout-64.png</file>
+    <file>icons/dark_343542/search-12-64.png</file>
+    <file>icons/dark_343542/doctor-suitecase-64.png</file>
+    <file>icons/dark_343542/edit-user-64.png</file>
+    <file>icons/dark_343542/home-64.png</file>
+    <file>icons/dark_343542/text-file-4-64.png</file>
+    <file>icons/dark_343542/user-4-64.png</file>
+  </qresource>
+  <qresource prefix="iconsBlue">
+    <file>icons/blue_2596be/contacts-64.png</file>
+    <file>icons/blue_2596be/doctor-suitecase-64.png</file>
+    <file>icons/blue_2596be/documents-64.png</file>
+    <file>icons/blue_2596be/edit-user-64.png</file>
+    <file>icons/blue_2596be/home-64.png</file>
+    <file>icons/blue_2596be/logout-64.png</file>
+    <file>icons/blue_2596be/menu-4-64.png</file>
+    <file>icons/blue_2596be/search-12-64.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/login.png</file>
+    <file>images/coronavirus-covid-19.jpg</file>
+    <file>images/FR1-1024x724.jpg</file>
+    <file>images/welcome.png</file>
+    <file>images/sideLeft.png</file>
+    <file>images/side2.png</file>
+    <file>images/main.png</file>
+    <file>images/side.png</file>
+    <file>images/profile.png</file>
+    <file>images/GettyImages-885764252-2-1.png</file>
+    <file>images/GettyImages-1190794708-1.png</file>
+    <file>images/GettyImages-1215515956-3-1.png</file>
+  </qresource>
+  <qresource prefix="users">
+    <file>images/users/man (1).png</file>
+    <file>images/users/man (2).png</file>
+    <file>images/users/man.png</file>
+    <file>images/users/old-man.png</file>
+    <file>images/users/woman (1).png</file>
+    <file>images/users/woman (2).png</file>
+    <file>images/users/woman.png</file>
+  </qresource>
+</RCC>
